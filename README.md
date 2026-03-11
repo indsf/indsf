@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=indsf&fontSize=60&fontAlign=50&animation=fadeIn&desc=Backend%20Developer%20%7C%20Algorithm%20Study&descAlign=50&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=WELCOME&fontSize=60&fontAlign=50&animation=fadeIn&desc=Backend%20Developer%20%7C%20Algorithm%20Study&descAlign=50&descAlignY=70)
 
 ## Hi there 👋
 안녕하세요! 꾸준히 성장하는 개발자입니다.
