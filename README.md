@@ -14,4 +14,4 @@ AI학과를 전공하고 S/W를 복수전공하며 전공지식을 쌓아왔습�
 <h4 align="center">📕 대구대학교 AI학과 주전공 | 영남대학교 전자정보융합전공 AI/SW 복수전공</h4>
 
 <h4 align="center">✉️ <a href="mailto:northfce@naver.com">northfce@naver.com</a></h4>
-👨‍💻 A student at [42Gyeongsan](https://42gyeongsan.kr/ko/main.do) [@42School](https://github.com/42school)
+🚀 Backend Developer | A student at 42Gyeongsan & @42School
